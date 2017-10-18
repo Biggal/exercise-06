@@ -1,1 +1,4 @@
-
+When the code is run, the output shown is exactly what's on the first picture (0), i.e It prints out the available
+options which are Help and See firmware version.when Help is chosen, it immediately shows 3 more options;
+Blink led, press button and press zero to go back to the options.And if option 2, which is see firmware version
+happens to be chosen according to picture2, It prints the version.
